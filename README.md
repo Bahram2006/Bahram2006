@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Bahram
+# 👋 Hi, I'm Myradow Bahram
 
-### 💻 Full Stack Developer
+### 💻 JavaScript Software Engineer & React Native Mobile App Developer
 
 ---
 
