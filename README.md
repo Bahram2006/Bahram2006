@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Myradow Bahram
 
-### 💻 JavaScript Software Engineer & React Native Mobile App Developer
+### 💻 JavaScript Fuulstack Engineer & React Native Mobile App Developer
 
 ---
 
