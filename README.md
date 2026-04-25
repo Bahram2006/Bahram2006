@@ -41,9 +41,8 @@
 
 <details open>
   <summary><b>Frontend Development</b></summary>
-  <p align="left">
-    ![Python](https://shields.io)
-  </p>
+  <br />
+  <img src="https://shields.io" alt="Python" />
 </details>
 
 
