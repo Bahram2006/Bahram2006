@@ -42,8 +42,17 @@
 <details open>
   <summary><b>Frontend Development</b></summary>
   <br />
-  <img src="https://shields.io" alt="Python" />
+  <a href="https://python.org">
+    <img src="https://simpleicons.org" width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://javascript.info">
+    <img src="https://simpleicons.org" width="40" height="40" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev">
+    <img src="https://simpleicons.org" width="40" height="40" alt="React" />
+  </a>
 </details>
+
 
 
 
