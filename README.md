@@ -37,15 +37,45 @@
 
 ---
 
-<details>
-<summary>🛠 Tech Stack</summary>
+### 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <br/>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </details>
+
+<details open>
+  <summary><b>Backend & Database</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</details>
+
+<details open>
+  <summary><b>Mobile Development</b></summary>
+  <br/>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</details>
+
+<details open>
+  <summary><b>Tools & Others</b></summary>
+  <br/>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</details>
+
 
 ---
 
