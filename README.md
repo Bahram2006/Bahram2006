@@ -42,39 +42,7 @@
 <details open>
   <summary><b>Frontend Development</b></summary>
   <p align="left">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <p align="left">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Mobile Development</b></summary>
-  <p align="left">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools & Others</b></summary>
-  <p align="left">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
+    ![Python](https://shields.io)
   </p>
 </details>
 
