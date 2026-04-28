@@ -1,82 +1,63 @@
-# 👋 Hi, I'm Myradow Bahram
+<div align="center">
+  
+  <!-- Header Banner: Gara we Gyzyl dinamiki banner -->
+  <img src="https://vercel.app" width="100%" />
 
-### 💻 JavaScript Fuulstack Engineer & React Native Mobile App Developer
-
----
-
-<details>
-<summary>🚀 About Me</summary>
-
-- Full Stack JavaScript Engineer and React Native app developer. 
-- Passionate about building modern and scalable applications  
-- Passionate about clean code & UI  
-
-</details>
-
----
-
-<details>
-<summary>📂 Projects</summary>
-
-- 🌐 Portfolio Website  
-- 📱 React Native Apps  
-- ⚙️ Full Stack Systems  
-
-</details>
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Bahram2006&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahram2006&layout=compact&theme=tokyonight)
-
-</details>
-
----
-
-### 🛠 Tech Stack
-
-<details open>
-  <summary><b>Frontend Development</b></summary>
   <br />
-  <a href="https://python.org">
-    <img src="https://simpleicons.org" width="40" height="40" alt="Python" />
-  </a>
-  <a href="https://javascript.info">
-    <img src="https://simpleicons.org" width="40" height="40" alt="JavaScript" />
-  </a>
-  <a href="https://react.dev">
-    <img src="https://simpleicons.org" width="40" height="40" alt="React" />
-  </a>
-</details>
 
+  ### 🚀 JavaScript Fullstack Engineer | React Native Developer
+  
+  [![Typing SVG](https://herokuapp.com)](https://git.io)
 
+  <p align="center">
+    <img src="https://komarev.com" alt="Bahram2006" />
+  </p>
 
+</div>
 
 ---
 
-<details>
-<summary>🤝 Collaboration</summary>
-
-- Open for freelance  
-- Open source contributions  
-- Team projects  
-
-</details>
+### 👨‍💻 Men barada
+- 🎯 **Esasy ugrym:** React Native bilen ýokary hilli ykjam goşundylar we JavaScript arkaly doly döwreleýin (Fullstack) sistemalar.
+- 🎨 **Dizaýn:** Ulanyjy tejribesine (UX) we arassa koda uly üns berýärin.
+- ⚡ **Maksadym:** Modern tehnologiýalar arkaly real problemalary çözmek.
 
 ---
 
-<details>
-<summary>👀 Profile Views</summary>
+### 🛠 Tech Stack (Gara & Gyzyl Stil)
 
-![Visitors](https://visitcount.itsvg.in/api?id=Bahram2006&icon=0&color=6)
 
-</details>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://shields.io) ![Next.js](https://shields.io) |
+| **Mobile** | ![React Native](https://shields.io) ![Expo](https://shields.io) |
+| **Backend** | ![Node.js](https://shields.io) ![Express](https://shields.io) |
+| **Database** | ![MongoDB](https://shields.io) ![PostgreSQL](https://shields.io) |
 
 ---
 
-## 🌐 Portfolio
-https://myradow-bahram-portfolio.vercel.app/
+### 📊 GitHub Activity (Dark Mode & Red Stats)
+
+<p align="center">
+  <img width="48%" src="https://vercel.app" />
+  <img width="48%" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://herokuapp.com" />
+</p>
+
+---
+
+### 📫 Habarlaşmak üçin:
+
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://shields.io" /></a>
+  <a href="https://t.me"><img src="https://shields.io" /></a>
+</p>
+
+---
+<div align="center">
+  <img src="https://vercel.app" alt="Quote" />
+</div>
