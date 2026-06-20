@@ -11,15 +11,37 @@
 
 <br>
 
-<details>
+<details open>
 <summary><h2>👨🏻‍💻 About me</h2></summary>
 <br>
 
-- 🎯 **Esasy ugrym:** React Native bilen ýokary hilli mobil goşundylar we JavaScript arkaly doly döwreleýin (Fullstack) sistemalar gurmak.
-- 🎨 **Dizaýn pelsepäm:** Ulanyjy tejribesine (UX) we arassa, okalýan koda uly üns berýärin.
-- ⚡ **Maksadym:** Häzirki zaman tehnologiýalary arkaly real durmuş meselelerini çözmek.
-- 🌍 **Ýerleşýän ýerim:** Türkmenistan — Freelance Fullstack Software Engineer hökmünde işleýärin.
-- 📚 **Häzir öwrenýärin:** Has çuňňur Backend arhitektura we performans optimizasiýa.
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Salam, men Bahram 👋
+
+**Fullstack JavaScript Engineer & React Native Developer · Türkmenistan**
+
+- 🚀 Ýokary öndürijilikli we masштablanyp bilýän **Fullstack** sistemalary (Frontend → Backend → Mobile) end-to-end gurmak boýunça tejribeli.
+- 📱 **React Native & Expo** arkaly production-ready, köp platformaly mobil goşundylar döretmek.
+- 🏗️ Arassa arhitektura, ýeňil saklap bolýan kod (clean & maintainable code) we best practice'leri ileri tutýaryn.
+- 🔍 Performans optimizasiýasy, scalable API dizaýny we maglumat bazasy modelirlemesi boýunça çuňňur gyzyklanma.
+- 🌍 Freelance hökmünde dürli halkara müşderiler bilen işläp, real-world meseleleri çözýärin.
+- 🤝 Açyk çeşme (Open Source) taslamalaryna goşant goşmaga we Türkmen dilli developer jemgyýetini ösdürmäge çalyşýaryn.
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bahram2006&repo=Bahram2006&theme=tokyonight&hide_border=true" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Clean+Code;Scalable+Systems;React+Native;Fullstack+JS&font=Fira+Code&center=true&width=380&height=40&color=58A6FF&vCenter=true&size=18" />
+
+</td>
+</tr>
+</table>
 
 </details>
 
