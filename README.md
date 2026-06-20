@@ -11,9 +11,9 @@
 
 <br>
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-
-### 👨🏻‍💻 Men barada
+<details>
+<summary><h2>👨🏻‍💻 About me</h2></summary>
+<br>
 
 - 🎯 **Esasy ugrym:** React Native bilen ýokary hilli mobil goşundylar we JavaScript arkaly doly döwreleýin (Fullstack) sistemalar gurmak.
 - 🎨 **Dizaýn pelsepäm:** Ulanyjy tejribesine (UX) we arassa, okalýan koda uly üns berýärin.
@@ -21,12 +21,45 @@
 - 🌍 **Ýerleşýän ýerim:** Türkmenistan — Freelance Fullstack Software Engineer hökmünde işleýärin.
 - 📚 **Häzir öwrenýärin:** Has çuňňur Backend arhitektura we performans optimizasiýa.
 
-<br clear="right"/>
+</details>
 
----
+<details>
+<summary><h2>🚀 Projects</h2></summary>
+<br>
 
-### 🛠️ Tehnologiýa Stack
+| Loýiha | Beýany | Tehnologiýalar |
+|---|---|---|
+| **Doctor App** | Doly döwreleýin lukmançylyk goşundysy | React Native, Node.js, MongoDB |
+| **Portfolio Sahypam** | Şahsy portfolio web sahypam | Next.js, Tailwind |
+| *(beýleki loýihalaryňyzy şu ýere goşup bilersiňiz)* | | |
 
+📂 Ähli repozitoriýalarym üçin **Repositories** bölümine serediň.
+
+</details>
+
+<details>
+<summary><h2>📊 Github Stats</h2></summary>
+<br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bahram2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahram2006&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahram2006&theme=tokyonight&hide_border=true" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bahram2006&theme=tokyo-night&hide_border=true" width="90%" />
+
+</div>
+
+</details>
+
+<details>
+<summary><h2>🛠️ What I Work With</h2></summary>
+<br>
 <div align="center">
 
 **Frontend**
@@ -47,37 +80,41 @@
 
 </div>
 
----
+</details>
 
-### 📊 GitHub Statistika
+<details>
+<summary><h2>🏆 Certificates</h2></summary>
+<br>
 
-<div align="center">
+- 🎓 *(Sertifikatyňyzyň ady)* — beren guramasy, ýyly
+- 🎓 *(Sertifikatyňyzyň ady)* — beren guramasy, ýyly
+- 🎓 *(Sertifikatyňyzyň ady)* — beren guramasy, ýyly
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bahram2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahram2006&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</details>
+
+<details>
+<summary><h2>💻 Coding Profiles</h2></summary>
+<br>
+
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+*(Hakyky profil linkleriňizi şu ýere goýuň)*
+
+</details>
+
+<details>
+<summary><h2>🎮 Half-Life 3</h2></summary>
+<br>
+
+😄 Garaşýarys... ⏳
+
+</details>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahram2006&theme=tokyonight&hide_border=true" width="60%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bahram2006&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
-
----
-
-### 🤝 Habarlaşmak
-
 <div align="center">
-
-Täze taslamalar ýa-da hyzmatdaşlyk teklipleri üçin erkin ýüz tutup bilersiňiz 👇
-
-<a href="https://t.me/BahramFullstack"><img src="https://img.shields.io/badge/Telegram-de%20söhbet%20et-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:yardam034@gmail.com"><img src="https://img.shields.io/badge/Email-ýaz-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bahram2006&color=2c5364&style=flat-square&label=Profil+Görülen)
 
